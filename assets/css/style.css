@@ -1,0 +1,30 @@
+﻿body{
+	background-color: #085a92;
+}
+
+
+.carousel-inner img {
+	margin: 0 auto;
+	max-height: 90%;
+}
+
+.carousel-inner {
+	height: 35rem;
+}
+
+.afficheSection{
+	margin: 1%;
+	background-color: #001c3c;
+}
+
+.col-lg-3 img {
+	width: 45%;
+	height: 35%;
+}
+.btn-warning{
+	background-color: #bf7b00 !important;
+}
+
+.headerNavMenuColor{
+	background-color: #5e5e5e !important;
+}
